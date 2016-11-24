@@ -200,6 +200,9 @@ section.success a {
     padding-top: 75px;
   }
 }
+.publications {
+    font-size: 16px;
+}
 #portfolio .portfolio-item {
   margin: 0 0 15px;
   right: 0;
